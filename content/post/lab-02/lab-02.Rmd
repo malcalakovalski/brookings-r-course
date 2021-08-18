@@ -1,0 +1,21 @@
+---
+title: "Lab 2: Data visualization"
+author: "Manuel Alcalá Kovalski"
+date: "8/18/2021"
+output: html_document
+links:
+- icon: flask
+  icon_pack: fas
+  name: lab
+  url: /labs/01-eda_hot_dogs.html
+- icon: magic
+  icon_pack: fas
+  name: slides
+  url: /slides/02-data-vis.html
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Introduction to ggplot2 and data visualization best practices.
