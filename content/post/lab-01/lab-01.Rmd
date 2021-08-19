@@ -19,4 +19,4 @@ links:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Introduce Yourself to R, RStudio, and Us!
+Introduce Yourself to R and RStudio!

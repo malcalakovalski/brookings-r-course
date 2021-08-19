@@ -10,6 +10,9 @@ main:
   - name: Syllabus
     url: '#syllabus'
     weight: 40
+  - name: Instructor
+    url: '#instructor'
+    weight: 50
   - name: Contact
     url: '#contact'
     weight: 70

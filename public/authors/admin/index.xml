@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R Crash Course</title>
+    <link>/authors/admin/</link>
+      <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <description>R Crash Course</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>/authors/admin/avatar_hu4b8677382014cd29e4b443dc750ed07a_7706_270x270_fill_lanczos_center_3.png</url>
+      <title>R Crash Course</title>
+      <link>/authors/admin/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/admin/</guid>
+      <description>&lt;br&gt;
+&lt;p&gt;This course will give students a foundation in the principles and practice of data visualization, particularly as applied to scientific and technical data.&lt;/p&gt;
+&lt;p&gt;We will have weekly lectures, covering a wide variety of topics including human perception, color theory, principles of visual design, etc. We will also have weekly hands-on laboratory sessions in which students will have the opportunity to put the lecture material into practice. This year, we will be adding additional emphasis on larger issues of scientific communication— after all, that&amp;rsquo;s one of the main reasons we make visualizations!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
